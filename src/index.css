@@ -1,0 +1,8 @@
+.row {
+    display: flex;
+    cursor: pointer;
+}
+
+.board {
+    margin: 90px;
+}
